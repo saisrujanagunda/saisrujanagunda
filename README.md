@@ -26,7 +26,7 @@ Here are a few things about me:
 
 -----
 
-# Travel Adventure: A Journey of Exploration and Discovery [^1]
+# Travel Adventure: A Journey of Exploration and Discovery[^1]
 
 Once upon a time, in a small town nestled amidst rolling hills, lived a young adventurer named Emily. With a burning desire to explore the world, she decided to embark on an epic travel adventure. Armed with a trusty backpack and an insatiable curiosity, Emily crafted a meticulous travel plan to make the most of her journey.
 
