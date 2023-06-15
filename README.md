@@ -78,6 +78,16 @@ Travel Plan </summary>
 
 ![ ](https://th.bing.com/th/id/OIP.MGuH4jgxqHGXkEBSIsnhLAHaFP?w=248&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
 
+
+This trip has now been marked off of her bucket-list:
+
+- [] Go on a cruise
+- [] Go on safari
+- [] Celebrate another country’s holiday
+- [x] Hike to an undiscovered waterfall
+- [] See penguins in their natural habitat
+- [x] learn pottery
+
 ----
 
 In her journey of exploration and discovery, Emily had not only traveled to distant lands but had also discovered the boundless potential within herself. As she returned to her small town, she carried with her a newfound zest for life and a burning desire to plan her next grand adventure.
