@@ -28,13 +28,13 @@ Here are a few things about me:
 
 Below is a small story with some fiction and actual life experiences 
 
-#Travel Adventure: A Journey of Exploration and Discovery
+# Travel Adventure: A Journey of Exploration and Discovery
 
 Once upon a time, in a small town nestled amidst rolling hills, lived a young adventurer named Emily. With a burning desire to explore the world, she decided to embark on an epic travel adventure. Armed with a trusty backpack and an insatiable curiosity, Emily crafted a meticulous travel plan to make the most of her journey.
 
 <details> 
 	<summary> 
-##_Travel Plan_
+## _Travel Plan_
 
 | Day  | Plan                   |
 |-----:|------------------------|
@@ -78,7 +78,7 @@ Once upon a time, in a small town nestled amidst rolling hills, lived a young ad
 + Wrote in a travel journal, capturing memories and emotions.
 + Bid farewell to the lands that had become her temporary home.
 
-![ ](https://www.google.com/url?sa=i&url=https%3A%2F%2Finsider.in%2Fnational-himalayan-trekking-cum-training-expedition-kashmir-great-lakes-2019--aug10-2019%2Fevent&psig=AOvVaw3q-xIyrpPOEMnlLytbCQcK&ust=1686900627268000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKim69jgxP8CFQAAAAAdAAAAABAu)
+![ ](https://th.bing.com/th/id/OIP.MGuH4jgxqHGXkEBSIsnhLAHaFP?w=248&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
 
 ----
 
