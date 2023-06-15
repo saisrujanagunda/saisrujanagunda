@@ -33,7 +33,9 @@ Below is a small story with some fiction and actual life experiences
 Once upon a time, in a small town nestled amidst rolling hills, lived a young adventurer named Emily. With a burning desire to explore the world, she decided to embark on an epic travel adventure. Armed with a trusty backpack and an insatiable curiosity, Emily crafted a meticulous travel plan to make the most of her journey.
 
 <details> 
+	<summary> 
 ##_Travel Plan_
+
 | Day  | Plan                   |
 |-----:|------------------------|
 |     1| Setting Sail 		|
@@ -42,6 +44,7 @@ Once upon a time, in a small town nestled amidst rolling hills, lived a young ad
 |     4| City of Wonders 	|
 |     5| Cultural Delights 	|
 |     6| Reflection and Farewell| 
+	</summary>
 </details>
 
 **Day 1: Setting Sail**
@@ -75,7 +78,7 @@ Once upon a time, in a small town nestled amidst rolling hills, lived a young ad
 + Wrote in a travel journal, capturing memories and emotions.
 + Bid farewell to the lands that had become her temporary home.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Finsider.in%2Fnational-himalayan-trekking-cum-training-expedition-kashmir-great-lakes-2019--aug10-2019%2Fevent&psig=AOvVaw3q-xIyrpPOEMnlLytbCQcK&ust=1686900627268000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKim69jgxP8CFQAAAAAdAAAAABAu)
+![ ](https://www.google.com/url?sa=i&url=https%3A%2F%2Finsider.in%2Fnational-himalayan-trekking-cum-training-expedition-kashmir-great-lakes-2019--aug10-2019%2Fevent&psig=AOvVaw3q-xIyrpPOEMnlLytbCQcK&ust=1686900627268000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKim69jgxP8CFQAAAAAdAAAAABAu)
 
 ----
 
