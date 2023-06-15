@@ -81,12 +81,12 @@ Travel Plan </summary>
 
 This trip has now been marked off of her bucket-list:
 
-[] Go on a cruise
-[] Go on safari
-[] Celebrate another country’s holiday
-[x] Hike to an undiscovered waterfall
-[] See penguins in their natural habitat
-[x] learn pottery
+-[] Go on a cruise
+-[] Go on safari
+-[] Celebrate another country’s holiday
+-[x] Hike to an undiscovered waterfall
+-[] See penguins in their natural habitat
+-[x] learn pottery
 
 ----
 
