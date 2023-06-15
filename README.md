@@ -34,7 +34,7 @@ Once upon a time, in a small town nestled amidst rolling hills, lived a young ad
 
 <details> 
 	<summary> 
-## _Travel Plan_
+_Travel Plan_ </summary>
 
 | Day  | Plan                   |
 |-----:|------------------------|
@@ -44,7 +44,7 @@ Once upon a time, in a small town nestled amidst rolling hills, lived a young ad
 |     4| City of Wonders 	|
 |     5| Cultural Delights 	|
 |     6| Reflection and Farewell| 
-	</summary>
+	
 </details>
 
 **Day 1: Setting Sail**
