@@ -26,15 +26,13 @@ Here are a few things about me:
 
 -----
 
-Below is a small story with some fiction and actual life experiences 
-
-# Travel Adventure: A Journey of Exploration and Discovery
+# Travel Adventure: A Journey of Exploration and Discovery [^1]
 
 Once upon a time, in a small town nestled amidst rolling hills, lived a young adventurer named Emily. With a burning desire to explore the world, she decided to embark on an epic travel adventure. Armed with a trusty backpack and an insatiable curiosity, Emily crafted a meticulous travel plan to make the most of her journey.
 
 <details> 
 	<summary> 
-_Travel Plan_ </summary>
+Travel Plan </summary>
 
 | Day  | Plan                   |
 |-----:|------------------------|
@@ -47,33 +45,33 @@ _Travel Plan_ </summary>
 	
 </details>
 
-**Day 1: Setting Sail**
+**Day 1: _Setting Sail_**
 + Boarded a majestic cruise ship at sunrise.
   + Watched the sun cast a golden glow on the tranquil ocean.
   + Enjoyed the gentle sway of the ship and the soothing sound of waves.
 
-**Day 2: Island Paradise**
+**Day 2: _Island Paradise_**
 - Arrived at a tropical island with palm-fringed beaches.
 - Snorkeled amidst colorful coral reefs and vibrant marine life.
 - Relaxed on powdery white sands, savoring the warm sun on her skin.
 
-**Day 3: Lost in the Wilderness**
+**Day 3: _Lost in the Wilderness_**
 + Explored a dense rainforest teeming with life.
 + Hiked along winding trails, surrounded by towering trees.
   - Discovered hidden waterfalls and serene, emerald-green pools.
   - Gazed at panoramic views of sprawling valleys and crystal-clear lakes.
 
-**Day 4: City of Wonders**
+**Day 4: _City of Wonders_**
 + Arrived in a bustling metropolis with vibrant city life.
 + Explored colorful street markets, brimming with exotic spices and handmade crafts.
 + Visited ancient temples, adorned with intricate carvings and vibrant prayer flags.
 
-**Day 5: Cultural Delights**
+**Day 5: _Cultural Delights_**
 + Engaged in local festivals, adorned in traditional attire.
 + Joined in lively dances, celebrating the region's rich cultural heritage.
   - Learned the art of pottery from skilled artisans, crafting unique clay masterpieces.
 
-**Day 6: Reflection and Farewell**
+**Day 6: _Reflection and Farewell_**
 + Sat by a serene lake, reflecting on the incredible journey.
 + Wrote in a travel journal, capturing memories and emotions.
 + Bid farewell to the lands that had become her temporary home.
@@ -87,7 +85,7 @@ In her journey of exploration and discovery, Emily had not only traveled to dist
 >"Traveling — it leaves you speechless, then turns you into a storyteller." - Ibn Battuta
 
 
-
+[^1] The above story is a combination of some fiction and actual life experiences 
 
 
 
