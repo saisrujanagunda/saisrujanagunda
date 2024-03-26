@@ -5,7 +5,7 @@ Hey there! 👋 I'm Sai Srujana Gunda, a passionate data science enthusiast with
 ## About Me
 
 - 📊 Experienced data analyst with a focus on machine learning, data visualization.
-- 🎓 Currently pursuing a degree in Data Science to deepen my understanding and broaden my skill set.
+- 🎓 Currently pursuing a Master's degree in Data Science to deepen my understanding and broaden my skill set.
 - 🌱 Always learning and exploring new techniques and technologies in the field of data science [Machine Learning Projects].
 - 👯 Open to collaborating on data-related projects or discussing ideas and concepts.
 
