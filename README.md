@@ -14,7 +14,7 @@ Hey there! 👋 I'm Sai Srujana Gunda, a passionate data science enthusiast with
 Here are some of the projects I've worked on:
 
 - [Academic Projects](https://github.com/saisrujanagunda/academic_projects): My first steps towards Data Science. Always precious!
-- [My Projects](https://github.com/saisrujanagunda/MyProjects): I try to work on my random thoughts and develop them into projects. Store them here!
+- [My Projects](https://github.com/saisrujanagunda/MyProjects): I try to work on my random thoughts and develop them into projects. Stored them here!
 - [Visualizations](https://github.com/saisrujanagunda/visualizations): My trials to get better with viz's. Watch them here!
 - [Competition submissions](https://github.com/saisrujanagunda/competition_submissions): Always ready to compete. Win or lose, attempt is an attempt. Hope what I learnt helps you as well. Jump right in!
 
